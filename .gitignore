@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+*.db
+bot.log
+diagnose.txt
+fix.txt
+.DS_Store
